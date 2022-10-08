@@ -44,13 +44,14 @@ yolo.py --help
 
 ## Inference on Video
 
-[![yolov3-video](https://www.youtube.com/c/Pyresearch)
+[![yolov3-video](https://github.com/noorkhokhar99/object-detect/blob/main/Screen%20Shot%201444-03-12%20at%2010.31.26%20PM.png)(https://www.youtube.com/c/Pyresearch)
 
 <small> Click on the image to Play the video on YouTube </small>
 
 ## Inference in Real-time
 
 [![yolov3-video](https://www.youtube.com/watch?v=h04_zeeEDco)
+
 <small> Click on the image to Play the video on YouTube </small>
 
 
