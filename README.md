@@ -48,11 +48,7 @@ yolo.py --help
 
 <small> Click on the image to Play the video on YouTube </small>
 
-## Inference in Real-time
 
-[![yolov3-video](https://www.youtube.com/watch?v=h04_zeeEDco)
-
-<small> Click on the image to Play the video on YouTube </small>
 
 
 
