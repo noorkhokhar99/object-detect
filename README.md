@@ -46,19 +46,13 @@ yolo.py --help
 
 ## Inference on Video
 
-[![yolov3-video](https://user-images.githubusercontent.com/26242097/48851021-0785f480-edd0-11e8-8ce4-cdfb78e8a849.png)](https://www.youtube.com/watch?v=AzmCYs5fAn0)
+[![yolov3-video](https://user-images.githubusercontent.com/26242097/48851021-0785f480-edd0-11e8-8ce4-cdfb78e8a849.png)(https://www.youtube.com/c/Pyresearch)
 <small> Click on the image to Play the video on YouTube </small>
 
 ## Inference in Real-time
 
-[![yolov3-video](https://user-images.githubusercontent.com/26242097/48862668-0ca56c80-eded-11e8-9482-31d795105983.png)](https://youtu.be/QaxEtpRwmtI)
+[![yolov3-video](https://www.youtube.com/watch?v=h04_zeeEDco)
 <small> Click on the image to Play the video on YouTube </small>
 
-## References
 
-1) [PyImageSearch YOLOv3 Object Detection with OpenCV Blog](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
 
-## License
-
-The code in this project is distributed under the MIT License.
-# yolo-object-detection
